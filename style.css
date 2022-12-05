@@ -1,0 +1,27 @@
+body {
+
+    background-color: pink;
+
+}
+
+#blok1 {
+
+    font-size: 100px;
+    color: purple;
+    height: 2px;
+
+}
+
+#blok2 {
+
+    font-size: x-large;
+    color: green;
+    text-align: right;
+
+}
+
+img {
+
+    border-radius: 35%;
+
+}
